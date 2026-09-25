@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.haagx.cn/sitemap.xml
